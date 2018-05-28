@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_title">
+        <item>Car</item>
+        <item>Finance</item>
+        <item>Game</item>
+        <item>Military</item>
+        <item>Movie</item>
+        <item>Music</item>
+        <item>Sport</item>
+        <item>Travel</item>
+    </string-array>
+</resources>
